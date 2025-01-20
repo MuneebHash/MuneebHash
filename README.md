@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Upskilling Logic & DSA and AI Agents.<br>👯 I’m looking to collaborate on Innovative microservices, AI-driven applications, and cutting-edge open-source projects.<br>🤝 I’m looking for help with Connecting with mentors, industry experts, and like-minded professionals to grow my tech career.<br>🌱 I’m currently learning reinforcement learning techniques, and cloud-native best practices.<br>💬 Ask me about Setting up scalable REST APIs, and Getting started with Java + Spring Boot.<br>⚡ Fun fact : I once automated a process to save 60% of manual effort!
+🔭 I’m currently working on Upskilling Logic & DSA and AI Agents.<br>👯 I’m looking to collaborate on Innovative microservices, AI-driven applications, and cutting-edge open-source projects.<br>🤝 I’m looking for help with Connecting with mentors, industry experts, and like-minded professionals to grow my tech career.<br>🌱 I’m currently learning reinforcement learning techniques, and Cloud Services.<br>💬 Ask me about Setting up scalable REST APIs, and Getting started with Java + Spring Boot.<br>⚡ Fun fact : I once automated a process to save 60% of manual effort!
 
 
 ## 🌐 Socials:
